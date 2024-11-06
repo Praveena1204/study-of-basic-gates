@@ -1,14 +1,16 @@
-### study-of-basic-gates
+### NAME: A. PRAVEENA
+### REG NO: 24006885
+### EXPERIMENT 1: Study of BASIC GATES
 
-**AIM:** 
+### AIM:
 
 To study and verify the truth table of logic gates in Quartus II using Verilog programming.
 
-**Equipments Required:**
+### EQUIPMENTS REQUIRED:
 
 Software – Quartus prime 
 
-**Theory**
+### THEORY
 
 Introduction Logic gates are the basic building blocks of any digital system. Logic gates are electronic circuits having one or more than one input and only one output. The relationship between the input and the output is based on a certain logic. Based on this, logic gates are named as
 
@@ -62,18 +64,19 @@ Y= A⊕B
 5.	For different input combinations generate the timing diagram.
 
 
-**PROGRAM**
+### PROGRAM
 
-Program for logic gates and verify its truth table in quartus using Verilog programming
+![Screenshot 2024-11-06 113552](https://github.com/user-attachments/assets/500d0581-8913-4abb-b42a-cfbcc2093c44)
 
- Developed by: RegisterNumber: 
- 
-**Logic symbol & Truthtable**
+### Logic symbol & Truthtable
 
-**RTL realization Output:** 
+### RTL realization Output:
+![Screenshot 2024-11-06 113813](https://github.com/user-attachments/assets/2f142155-ff88-45ab-bb6e-1998a0ba5cbd)
 
-**RTL**
+### TIMING DIAGRAM
 
-**Result:**
+![Screenshot 2024-11-06 113928](https://github.com/user-attachments/assets/612736c9-8696-4c65-b5b5-d1fc0f3b038e)
 
+### RESULT:
+SUCCESSFULLY IMPLEMENTED.
 
