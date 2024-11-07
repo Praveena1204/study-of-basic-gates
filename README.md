@@ -70,6 +70,8 @@ Y= A⊕B
 
 ### Logic symbol & Truthtable
 
+![08086c8d-95ea-4f30-ae01-ba00790cf329](https://github.com/user-attachments/assets/86b64a71-bbbb-4a13-9f1c-07c102cad8b3)
+
 ### RTL realization Output:
 ![Screenshot 2024-11-06 113813](https://github.com/user-attachments/assets/2f142155-ff88-45ab-bb6e-1998a0ba5cbd)
 
